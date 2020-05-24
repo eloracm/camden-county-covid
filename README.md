@@ -13,3 +13,6 @@ total_deaths.csv - Daily cumulative number of deaths by municipality
 new_cases.csv -- Daily report of new cases per municipality
 
 new_deaths.csv -- Daily report of new deaths per municipality
+
+## Note
+As of 5/22, Camden County Department of Health announced that new cases and deaths in Camden County will no longer be announced on weekends or holidays. All weekend cases and deaths will be announced on the next business day and will be properly attributed to the day they were received.
