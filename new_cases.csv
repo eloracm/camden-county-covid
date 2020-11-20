@@ -4,7 +4,6 @@ Date,Municipality,Confirmed
 3/16/2020,Haddon Township,1
 3/18/2020,Cherry Hill Township,3
 3/18/2020,Pine Hill Borough,1
-3/19/2020,,2
 3/19/2020,Barrington Borough,1
 3/19/2020,Cherry Hill Township,1
 3/19/2020,Voorhees Township,1
@@ -17,7 +16,6 @@ Date,Municipality,Confirmed
 3/22/2020,Barrington Borough,1
 3/22/2020,Cherry Hill Township,3
 3/22/2020,Winslow Township,1
-3/23/2020,Blackwood,1
 3/23/2020,Camden City,1
 3/23/2020,Cherry Hill Township,5
 3/23/2020,Clementon Borough,2
@@ -26,7 +24,6 @@ Date,Municipality,Confirmed
 3/23/2020,Somerdale Borough,1
 3/23/2020,Voorhees Township,1
 3/23/2020,Waterford Township,1
-3/23/2020,Waterford Works Township,1
 3/24/2020,Bellmawr Borough,1
 3/24/2020,Camden City,1
 3/24/2020,Cherry Hill Township,2
@@ -45,7 +42,6 @@ Date,Municipality,Confirmed
 3/25/2020,Pennsauken Township,1
 3/25/2020,Voorhees Township,2
 3/25/2020,Winslow Township,1
-3/26/2020,,1
 3/26/2020,Camden City,2
 3/26/2020,Cherry Hill Township,2
 3/26/2020,Gloucester Township,3
@@ -94,7 +90,6 @@ Date,Municipality,Confirmed
 3/30/2020,Cherry Hill Township,9
 3/30/2020,Collingswood Borough,1
 3/30/2020,Gloucester Township,4
-3/30/2020,Gloucester Twp ,1
 3/30/2020,Haddon Township,1
 3/30/2020,Lawnside Borough,1
 3/30/2020,Magnolia Borough,1
@@ -372,8 +367,6 @@ Date,Municipality,Confirmed
 4/13/2020,Voorhees Township,4
 4/13/2020,Winslow Township,8
 4/13/2020,Woodlynne Borough,2
-4/13/2020, Pennsauken Township,1
-4/14/2020,,1
 4/14/2020,Audubon Borough,1
 4/14/2020,Barrington Borough,1
 4/14/2020,Bellmawr Borough,1
@@ -394,7 +387,6 @@ Date,Municipality,Confirmed
 4/14/2020,Runnemede Borough,1
 4/14/2020,Somerdale Borough,1
 4/14/2020,Stratford Borough,1
-4/14/2020,Unknown,2
 4/14/2020,Voorhees Township,6
 4/14/2020,Winslow Township,6
 4/14/2020,Woodlynne Borough,3
@@ -416,7 +408,6 @@ Date,Municipality,Confirmed
 4/15/2020,Mount Ephraim Borough,3
 4/15/2020,Oaklyn Borough,1
 4/15/2020,Pennsauken Township,14
-4/15/2020,Unknown,3
 4/15/2020,Voorhees Township,6
 4/15/2020,Winslow Township,6
 4/15/2020,Woodlynne Borough,1
@@ -438,7 +429,6 @@ Date,Municipality,Confirmed
 4/16/2020,Runnemede Borough,1
 4/16/2020,Somerdale Borough,3
 4/16/2020,Stratford Borough,1
-4/16/2020,Unknown,1
 4/16/2020,Voorhees Township,10
 4/16/2020,Winslow Township,6
 4/16/2020,Woodlynne Borough,5
@@ -625,7 +615,6 @@ Date,Municipality,Confirmed
 4/26/2020,Pine Hill Borough,2
 4/26/2020,Runnemede Borough,2
 4/26/2020,Stratford Borough,1
-4/26/2020,Unknown,1
 4/26/2020,Voorhees Township,6
 4/26/2020,Waterford Township,1
 4/26/2020,Winslow Township,6
@@ -651,7 +640,6 @@ Date,Municipality,Confirmed
 4/27/2020,Pine Hill Borough,1
 4/27/2020,Somerdale Borough,1
 4/27/2020,Stratford Borough,2
-4/27/2020,Unknown,1
 4/27/2020,Voorhees Township,9
 4/27/2020,Winslow Township,22
 4/27/2020,Woodlynne Borough,1
@@ -702,7 +690,6 @@ Date,Municipality,Confirmed
 4/30/2020,Gloucester Township,3
 4/30/2020,Haddon Township,1
 4/30/2020,Merchantville Borough,2
-4/30/2020,Moorestown Township,1
 4/30/2020,Pennsauken Township,6
 4/30/2020,Pine Hill Borough,1
 4/30/2020,Winslow Township,2
@@ -761,7 +748,6 @@ Date,Municipality,Confirmed
 5/3/2020,Pennsauken Township,4
 5/3/2020,Pine Hill Borough,2
 5/3/2020,Runnemede Borough,1
-5/3/2020,Unknown,1
 5/3/2020,Voorhees Township,3
 5/3/2020,Waterford Township,1
 5/3/2020,Winslow Township,6
@@ -783,7 +769,6 @@ Date,Municipality,Confirmed
 5/4/2020,Waterford Township,1
 5/4/2020,Winslow Township,8
 5/4/2020,Woodlynne Borough,1
-5/5/2020,,1
 5/5/2020,Audubon Borough,2
 5/5/2020,Audubon Park Borough,1
 5/5/2020,Bellmawr Borough,2
@@ -819,7 +804,6 @@ Date,Municipality,Confirmed
 5/6/2020,Voorhees Township,3
 5/6/2020,Waterford Township,4
 5/6/2020,Winslow Township,9
-5/7/2020,,2
 5/7/2020,Berlin Borough,1
 5/7/2020,Berlin Township,1
 5/7/2020,Brooklawn Borough,1
@@ -1925,8 +1909,8 @@ Date,Municipality,Confirmed
 7/25/2020,Gloucester City,1
 7/25/2020,Gloucester Township,8
 7/25/2020,Haddon Heights Borough,1
-7/25/2020,Haddonfield Borough,1
 7/25/2020,Haddon Township,2
+7/25/2020,Haddonfield Borough,1
 7/25/2020,Lawnside Borough,2
 7/25/2020,Lindenwold Borough,1
 7/25/2020,Merchantville Borough,2
@@ -3631,6 +3615,7 @@ Date,Municipality,Confirmed
 11/14/2020,Somerdale Borough,6
 11/14/2020,Stratford Borough,1
 11/14/2020,Voorhees Township,11
+11/14/2020,Waterford Township,-2
 11/14/2020,Winslow Township,26
 11/14/2020,Woodlynne Borough,3
 11/15/2020,Audubon Borough,2
@@ -3711,3 +3696,33 @@ Date,Municipality,Confirmed
 11/17/2020,Waterford Township,1
 11/17/2020,Winslow Township,9
 11/17/2020,Woodlynne Borough,2
+11/18/2020,Audubon Borough,3
+11/18/2020,Audubon Park Borough,3
+11/18/2020,Barrington Borough,2
+11/18/2020,Bellmawr Borough,11
+11/18/2020,Berlin Borough,2
+11/18/2020,Berlin Township,7
+11/18/2020,Brooklawn Borough,2
+11/18/2020,Camden City,57
+11/18/2020,Cherry Hill Township,37
+11/18/2020,Clementon Borough,6
+11/18/2020,Collingswood Borough,-3
+11/18/2020,Gloucester City,12
+11/18/2020,Gloucester Township,45
+11/18/2020,Haddon Heights Borough,3
+11/18/2020,Haddon Township,6
+11/18/2020,Haddonfield Borough,10
+11/18/2020,Lawnside Borough,4
+11/18/2020,Lindenwold Borough,10
+11/18/2020,Magnolia Borough,2
+11/18/2020,Mount Ephraim Borough,4
+11/18/2020,Oaklyn Borough,1
+11/18/2020,Pennsauken Township,24
+11/18/2020,Pine Hill Borough,20
+11/18/2020,Runnemede Borough,3
+11/18/2020,Somerdale Borough,2
+11/18/2020,Stratford Borough,2
+11/18/2020,Voorhees Township,12
+11/18/2020,Waterford Township,9
+11/18/2020,Winslow Township,25
+11/18/2020,Woodlynne Borough,11
