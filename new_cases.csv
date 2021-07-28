@@ -4686,8 +4686,7 @@ Date,Municipality,Confirmed
 12/21/2020,Bellmawr Borough,5
 12/21/2020,Berlin Borough,7
 12/21/2020,Berlin Township,6
-12/21/2020,Camden City,33
-12/21/2020,Camden City,38
+12/21/2020,Camden City,71
 12/21/2020,Collingswood Borough,3
 12/21/2020,Gloucester City,4
 12/21/2020,Gloucester Township,39
@@ -5196,7 +5195,6 @@ Date,Municipality,Confirmed
 1/7/2021,Laurel Springs Borough,1
 1/7/2021,Lawnside Borough,1
 1/7/2021,Lindenwold Borough,13
-1/7/2021,maag,2
 1/7/2021,Mount Ephraim Borough,6
 1/7/2021,Oaklyn Borough,1
 1/7/2021,Pennsauken Township,29
@@ -7191,7 +7189,6 @@ Date,Municipality,Confirmed
 3/25/2021,Haddon Township,5
 3/25/2021,Haddonfield Borough,2
 3/25/2021,Laurel Springs Borough,3
-3/25/2021,Law,1
 3/25/2021,Lindenwold Borough,7
 3/25/2021,Merchantville Borough,2
 3/25/2021,Oaklyn Borough,3
@@ -8710,3 +8707,26 @@ Date,Municipality,Confirmed
 6/4/2021,Runnemede Borough,1
 6/4/2021,Somerdale Borough,1
 6/4/2021,Winslow Township,2
+6/5/2021,Camden City,6
+6/5/2021,Cherry Hill Township,1
+6/5/2021,Clementon Borough,1
+6/5/2021,Gloucester Township,1
+6/5/2021,Lawnside Borough,1
+6/5/2021,Lindenwold Borough,3
+6/5/2021,Oaklyn Borough,1
+6/5/2021,Pine Hill Borough,1
+6/6/2021,Berlin Township,3
+6/6/2021,Camden City,4
+6/6/2021,Cherry Hill Township,2
+6/6/2021,Clementon Borough,1
+6/6/2021,Collingswood Borough,1
+6/6/2021,Gloucester Township,4
+6/6/2021,Pennsauken Township,2
+6/6/2021,Pine Hill Borough,1
+6/6/2021,Somerdale Borough,2
+6/7/2021,Bellmawr Borough,2
+6/7/2021,Collingswood Borough,1
+6/7/2021,Gloucester Township,2
+6/7/2021,Haddon Heights Borough,1
+6/7/2021,Lindenwold Borough,2
+6/7/2021,Winslow Township,1
